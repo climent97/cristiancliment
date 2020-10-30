@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projectes on </title>
+    <link>http://127.0.0.1/projecte/</link>
+    <description>Recent content in Projectes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-es</language>
+    <lastBuildDate>Tue, 27 Oct 2020 15:12:59 +0100</lastBuildDate><atom:link href="http://127.0.0.1/projecte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacto</title>
+      <link>http://127.0.0.1/projecte/contacto/</link>
+      <pubDate>Tue, 27 Oct 2020 15:12:59 +0100</pubDate>
+      
+      <guid>http://127.0.0.1/projecte/contacto/</guid>
+      <description>   DIRECCIÓN CONTACTO     C/l&amp;rsquo;Almàssera, 5,46726 Castellonet de la Conquesta,Valencia 962 89 62 44    </description>
+    </item>
+    
+    <item>
+      <title>Pastas</title>
+      <link>http://127.0.0.1/projecte/pastas/</link>
+      <pubDate>Tue, 20 Oct 2020 12:28:59 +0200</pubDate>
+      
+      <guid>http://127.0.0.1/projecte/pastas/</guid>
+      <description>   PLATOS PRECIO     Canelones de pollo asado 9.00€   Lasagna de carne 9.00€   Lasagna de pimientos y carne 10.00   Fettuccine bolognese 8.00€   Raviolis de foie, manzana caramelizada y salsa de setas 10.50€    </description>
+    </item>
+    
+    <item>
+      <title>Platos Frios</title>
+      <link>http://127.0.0.1/projecte/platosfrios/</link>
+      <pubDate>Tue, 20 Oct 2020 12:14:50 +0200</pubDate>
+      
+      <guid>http://127.0.0.1/projecte/platosfrios/</guid>
+      <description>   PLATOS PRECIO     MATRIMONIO 5.00€   Rosquilletas con ensaladilla de atún y pimientos con boquerones y anchoas.    SALMOREJO 5.50€   Crema de tomate y verduras varias con jamón, huevo, guacamole y kikos    GAZPACHO DE SANDIA 5.00€   Tomate, sandia, pimientos, cebolla y pan rallado con picatostes     </description>
+    </item>
+    
+    <item>
+      <title>Entrantes</title>
+      <link>http://127.0.0.1/projecte/entrantes/</link>
+      <pubDate>Tue, 20 Oct 2020 12:00:22 +0200</pubDate>
+      
+      <guid>http://127.0.0.1/projecte/entrantes/</guid>
+      <description>   PLATOS PRECIO     Calamares a la romana con limón y mayonesa 7.50€   Gambón al ajillo 10.00€   Provolone de tomate, bacon y hierbas 9.00€   Lacón ahumado con patata y pimentón dulce 10.00€   Huevos rotos con jamon 9.00€   Crepe relleno de fresa y queso de cabra 5.00€    </description>
+    </item>
+    
+    <item>
+      <title>Ensaladas</title>
+      <link>http://127.0.0.1/projecte/ensaladas/</link>
+      <pubDate>Mon, 19 Oct 2020 01:30:06 +0200</pubDate>
+      
+      <guid>http://127.0.0.1/projecte/ensaladas/</guid>
+      <description>   PLATOS PRECIO     Ensalada Cesar 8.00€   Ensalada Tropical 7.00€   Ensalada Marinera 9.00€   Ensalada Valenciana 6.50€   Ensalada Olimpica 7.50€   Ensalada Especial 7.50€    </description>
+    </item>
+    
+  </channel>
+</rss>

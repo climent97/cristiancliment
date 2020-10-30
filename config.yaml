@@ -1,0 +1,20 @@
+baseURL : "http://127.0.0.1/"
+languageCode : "ca-es"
+theme: "basic"
+menu:
+  main:
+    - name: Ensaladas
+      url: /projecte/ensaladas/
+      weight: -120
+    - name: Entrantes
+      url: /projecte/entrantes/
+      weight: -110
+    - name: Platos frios
+      url: /projecte/platosfrios/
+      weight: -100
+    - name: Pastas
+      url: /projecte/pastas/
+      weight: -100
+    - name: Contacto
+      url: /projecte/contacto/
+      weight: -90

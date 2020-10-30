@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://127.0.0.1/</loc>
+    <lastmod>2020-10-27T15:12:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1/projecte/contacto/</loc>
+    <lastmod>2020-10-27T15:12:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1/projecte/</loc>
+    <lastmod>2020-10-27T15:12:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1/projecte/pastas/</loc>
+    <lastmod>2020-10-20T12:28:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1/projecte/platosfrios/</loc>
+    <lastmod>2020-10-20T12:14:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1/projecte/entrantes/</loc>
+    <lastmod>2020-10-20T12:00:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1/projecte/ensaladas/</loc>
+    <lastmod>2020-10-19T01:30:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1/about/</loc>
+    <lastmod>2020-10-19T01:27:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1/tags/</loc>
+  </url>
+  
+</urlset>
